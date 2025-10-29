@@ -32,4 +32,10 @@ Một số chủ đề tôi đã và đang học trong repository này:
 1. Cài đặt [XAMPP](https://www.apachefriends.org/)  
 2. Chép thư mục repository này vào `C:/xampp/htdocs/`  
 3. Khởi động **Apache** và **MySQL** trong XAMPP  
-4. Mở trình duyệt và truy cập:
+4. Mở trình duyệt và truy cập:http://localhost/php/ (hoặc tên thư mục bạn đặt trong `htdocs`)
+## Mục tiêu học tập
+- Hiểu rõ cách hoạt động của PHP và Web server.
+- Nắm được cách kết nối PHP với cơ sở dữ liệu.
+- Làm nền tảng để học nâng cao hơn (Laravel, REST API, MVC,...).
+- Rèn luyện kỹ năng Git/GitHub trong quản lý mã nguồn.
+
